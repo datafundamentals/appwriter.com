@@ -1,0 +1,23 @@
+{
+  "name": "appwriter.com",
+  "version": "1.0.0",
+  "description": "appwriter.com site",
+  "main": "index.html",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve  --port=3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datafundamentals/appwriter.com.git"
+  },
+  "author": "Pete Carapetyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/datafundamentals/appwriter.com/issues"
+  },
+  "homepage": "https://github.com/datafundamentals/appwriter.com#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
