@@ -1,0 +1,118 @@
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg1"
+    sodipodi:docname="cdwriter_mount.svg"
+    viewBox="0 0 60 60"
+    sodipodi:version="0.32"
+    version="1.0"
+    y="0"
+    x="0"
+    inkscape:version="0.38.1"
+  >
+  <path
+      id="path587"
+      sodipodi:rx="25.51180840"
+      sodipodi:ry="25.51180840"
+      style="fill-rule:evenodd;stroke:#333333;stroke-width:2.9142;fill:#b3b3b3"
+      sodipodi:type="arc"
+      d="m57.131 31.816a25.512 25.512 0 1 0 -51.023 0 25.512 25.512 0 1 0 51.023 0h-25.512z"
+      transform="matrix(1.0723 0 0 1.0723 -3.75 -4.0187)"
+      sodipodi:cy="31.81613159"
+      sodipodi:cx="31.61937332"
+      sodipodi:stroke-cmyk="(0 0 0 0.8)"
+  />
+  <path
+      id="path740"
+      sodipodi:rx="19.16423416"
+      sodipodi:ry="19.16423416"
+      style="stroke-linejoin:round;fill-rule:evenodd;stroke:#333333;stroke-linecap:round;stroke-dasharray:1.832,3.66401;stroke-width:1.832;fill:#999999"
+      sodipodi:type="arc"
+      d="m53.804 32.018a19.164 19.164 0 1 0 -38.329 0 19.164 19.164 0 1 0 38.329 0h-19.164z"
+      transform="matrix(.98552 -.27613 .27613 .98552 -12.748 8.1396)"
+      sodipodi:cy="32.01841736"
+      sodipodi:cx="34.63957977"
+      sodipodi:stroke-cmyk="(0 0 0 0.8)"
+  />
+  <path
+      id="path588"
+      sodipodi:rx="10.56099796"
+      sodipodi:ry="10.56099796"
+      style="fill-rule:evenodd;stroke:#333333;stroke-width:3.125;fill:#7f7f7f"
+      sodipodi:type="arc"
+      d="m40.208 30.862a10.561 10.561 0 1 0 -21.122 0 10.561 10.561 0 1 0 21.122 0h-10.561z"
+      transform="translate(.50896 .12724)"
+      sodipodi:cy="30.86182404"
+      sodipodi:cx="29.64713860"
+      sodipodi:stroke-cmyk="(0 0 0 0.8)"
+  />
+  <path
+      id="path589"
+      sodipodi:rx="5.66222191"
+      sodipodi:ry="5.66222191"
+      style="fill-rule:evenodd;stroke:#333333;stroke-width:1.875;fill:#cccccc"
+      sodipodi:type="arc"
+      d="m36.645 32.452a5.6622 5.6622 0 1 0 -11.324 0 5.6622 5.6622 0 1 0 11.324 0h-5.662z"
+      transform="translate(-.76344 -1.2724)"
+      sodipodi:cy="32.45233536"
+      sodipodi:cx="30.98316956"
+      sodipodi:stroke-cmyk="(0 0 0 0.8)"
+  />
+  <g
+      id="g836"
+      transform="matrix(-.74140 -1.8887 1.8887 -.74140 2.9829 143.85)"
+    >
+    <path
+        id="path599"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#333333;stroke-linecap:round;stroke-width:1.6847;fill:#595959"
+        d="m64.489 23.609c1.59-7.585 1.59-7.585 1.59-7.585l1.64 7.57-3.23 0.015z"
+        sodipodi:nodetypes="cccc"
+        transform="matrix(.65667 -.34544 .34544 .65667 -9.7279 39.265)"
+        sodipodi:stroke-cmyk="(0 0 0 0.8)"
+    />
+    <rect
+        id="rect598"
+        style="stroke-linejoin:round;fill-rule:evenodd;stroke:#333333;stroke-linecap:round;stroke-width:1.6847;fill:#b3b3b3"
+        transform="matrix(.65667 -.34544 .34544 .65667 -9.7279 39.265)"
+        width="3.181"
+        sodipodi:stroke-cmyk="(0 0 0 0.8)"
+        y="23.617"
+        x="64.511"
+        height="22.903"
+        sodipodi:fill-cmyk="(0 0 0 0.3)"
+    />
+    <path
+        id="path600"
+        sodipodi:rx="0.62029958"
+        sodipodi:ry="0.62029958"
+        style="fill-rule:evenodd;stroke:#333333;stroke-width:2.5605;fill:#333333"
+        sodipodi:type="arc"
+        d="m61.966 18.726a0.6203 0.6203 0 1 0 -1.24 0 0.6203 0.6203 0 1 0 1.24 0h-0.62z"
+        transform="matrix(.43205 -.22728 .22728 .43205 9.2584 34.342)"
+        sodipodi:cy="18.72622108"
+        sodipodi:cx="61.34603882"
+        sodipodi:stroke-cmyk="(0 0 0 0.8)"
+    />
+    <rect
+        id="rect601"
+        style="fill-rule:evenodd;stroke:#333333;stroke-width:1.6847;fill:#cccccc"
+        rx="1"
+        transform="matrix(.65667 -.34544 .34544 .65667 -9.7279 39.265)"
+        width="3.6264"
+        sodipodi:stroke-cmyk="(0 0 0 0.8)"
+        y="46.449"
+        x="64.32"
+        height="1.9722"
+        sodipodi:fill-cmyk="(0 0 0 0.2)"
+    />
+  </g
+  >
+</svg
+>

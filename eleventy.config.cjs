@@ -3,6 +3,7 @@ module.exports = function(eleventyConfig) {
   return {
     passthroughFileCopy: true,
     dir: {
-      input: "site",       }
-}
+      input: "site",       
+    }
+  }
 };
