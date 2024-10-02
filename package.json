@@ -7,10 +7,13 @@
   "scripts": {
     "build": "eleventy",
     "serve": "eleventy --serve  --port=3000"
-},
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
+  },
+  "dependencies": {
+    "@11ty/eleventy-navigation": "^0.3.5"
   }
 }

@@ -1,3 +1,4 @@
 <div  id="sidebar" class="sidebar-grid-area">
     <p>sidebar, here</p>
+    {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe}}
 </div>
