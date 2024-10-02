@@ -1,3 +1,14 @@
+---
+layout: layout-sidebar
+title: deserunt-nulla
+eleventyNavigation:
+  key: deserunt-nulla
+  title: deserunt-nulla
+  parent: interests
+  # order: 42
+# FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
+---
+
 # Deserunt nulla
 
 ## est proident

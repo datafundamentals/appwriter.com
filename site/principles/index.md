@@ -1,3 +1,14 @@
+---
+layout: layout-sidebar
+title: index
+eleventyNavigation:
+  key: index
+  title: index
+  parent: principles
+  # order: 42
+# FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
+---
+
 # Rules and Principles
 
 - This game is not expected to remain static. The market is always ratcheting up, so should we.

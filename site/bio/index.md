@@ -1,3 +1,14 @@
+---
+layout: layout-sidebar
+title: index
+eleventyNavigation:
+  key: bio
+  title: bio
+  #parent: bio
+  # order: 42
+# FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
+---
+
 # Deserunt
 
 Ut sint ad proident ad sit duis exercitation quis. Sint ad mollit nisi sunt. Anim nulla aliquip ullamco quis ut nulla nisi esse. Qui aute culpa tempor et ut. Mollit officia magna aliquip culpa exercitation Lorem laboris. Aliquip duis aliqua elit est id nisi qui deserunt sunt dolore.

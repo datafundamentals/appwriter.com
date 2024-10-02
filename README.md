@@ -1,3 +1,14 @@
+---
+layout: layout-sidebar
+title: README
+eleventyNavigation:
+  key: README
+  title: README
+  parent: appwriter.com
+  # order: 42
+# FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
+---
+
 # 11tyXploreTemplate - For practicing with 11ty 
 
 This is a `practice` project, for building 11ty skills

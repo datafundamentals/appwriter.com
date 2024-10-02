@@ -1,3 +1,14 @@
+---
+layout: layout-sidebar
+title: eu-do
+eleventyNavigation:
+  key: eu-do
+  title: eu-do
+  parent: reference
+  # order: 42
+# FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
+---
+
 # Eu do
 
 ## labore

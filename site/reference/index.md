@@ -1,3 +1,14 @@
+---
+layout: layout-sidebar
+title: Reference
+eleventyNavigation:
+  key: reference
+  title: Reference
+  # parent: reference
+  # order: 42
+# FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
+---
+
 # Nostrud
 
 <img class="bordered" src="/static/images/bulksplash-erebus21-abffiRrT1WA.jpg" alt="bulksplash-erebus21-abffiRrT1WA.jpg" />

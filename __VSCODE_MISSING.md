@@ -1,3 +1,14 @@
+---
+layout: layout-sidebar
+title: __VSCODE_MISSING
+eleventyNavigation:
+  key: __VSCODE_MISSING
+  title: __VSCODE_MISSING
+  parent: appwriter.com
+  # order: 42
+# FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
+---
+
 # Missing Files?
 
 If you are viewing this in VSCode there are several files that are intentionally not showing
