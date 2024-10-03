@@ -2,8 +2,8 @@ module.exports = function () {
   return {
     dir: 'ltr',
     lang: 'en',
-    name: 'opm.org',
-    description: 'not-npr is a customizeable theme, for the Rocket SSG',
+    name: 'appwriter',
+    description: 'Appwriter.com is a platform for helping pros add coding to their skillsetss',
     socialLinks: [
       {
         name: 'GitHub',
