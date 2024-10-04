@@ -5,7 +5,7 @@ eleventyNavigation:
   key: principles
   title: Principles
   # parent: principles
-  # order: 42
+  order: 10
 ---
 
 # Rules and Principles

@@ -1,11 +1,11 @@
 ---
 layout: layout-sidebar
-title: Boltup Secured Spring Boot App
+title: Boltup Spring Java
 eleventyNavigation:
   key: secured_spring
-  title: Boltup Secured Spring Boot App
-  parent: boltup
+  title: Boltup Spring Java
+  parent: secured_starter_apps
   # order: 42
 ---
 
-# Boltup Secured Spring Boot App
+# Boltup Spring Java App

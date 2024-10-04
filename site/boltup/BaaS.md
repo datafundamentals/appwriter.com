@@ -1,11 +1,11 @@
 ---
 layout: layout-sidebar
-title: Boltup Authentication
+title: Boltup BaaS
 eleventyNavigation:
   key: authentication
-  title: Boltup Authentication
+  title: Boltup BaaS
   parent: secured_infrastructure
   # order: 42
 ---
 
-# Boltup Authentication
+# Boltup BaaS

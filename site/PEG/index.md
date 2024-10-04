@@ -5,7 +5,7 @@ eleventyNavigation:
   key: PEG
   title: PEG - Portfolio Electives Game
   # parent: PEG
-  # order: 42
+  order: 1
 ---
 
 # PEG Portfolio Electives Game
