@@ -2,7 +2,7 @@ module.exports = function () {
   return {
     dir: 'ltr',
     lang: 'en',
-    name: 'appwriter',
+    name: 'appwriter.com',
     description: 'Appwriter.com is a platform for helping pros add coding to their skillsetss',
     socialLinks: [
       {

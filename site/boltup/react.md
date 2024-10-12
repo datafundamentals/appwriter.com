@@ -4,7 +4,7 @@ title: Boltup React
 eleventyNavigation:
   key: react_app
   title: Boltup React
-  parent: secured_starter_apps
+  parent: starter_apps
   # order: 42
 ---
 

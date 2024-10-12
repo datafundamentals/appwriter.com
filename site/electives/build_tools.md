@@ -10,3 +10,10 @@ eleventyNavigation:
 ---
 
 # Build Tools
+
+- maven
+- gradle
+- composer
+- npm
+- any of several js tools
+- 

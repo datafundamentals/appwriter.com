@@ -10,3 +10,7 @@ eleventyNavigation:
 ---
 
 # Secrets Handling
+
+- example railway environment variables
+- example using service key from google on a spring java firebase connection
+- 

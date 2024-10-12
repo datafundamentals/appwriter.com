@@ -1,5 +1,5 @@
 ---
-layout: layout-sidebar
+layout: layout-default
 title: index
 eleventyNavigation:
   key: electivesIndex
@@ -10,9 +10,11 @@ eleventyNavigation:
 
 # Electives
 
-Electives are not taught as a part of PEG or the Portfolio Electives Game
+I don't teach you the electives, but there's a whole web full of that, and that's not something any of us should try and out-do.
 
-Instead they are defined in the context of the market.
+Our job here is to make sure you get credit for learning the elective, by showing it used comfortably, in your Portfolio
+
+If the basics define you as an adequate entry level coder, electives define you as more broadly capable and possibly more useful to an employer.
 
 Then, scoring and ...
 
@@ -23,4 +25,10 @@ Example:
 - requirements for your portfolio
 
 - how to cross list portfolio as part of your scoring
+
+- some electives not even avoidable, such as secrets if you are going to share code but not your service account on boltup java spring
+
+This page is not laid out properly because the list of electives would break the sidebar too long
+search for this code in THIS codebase for how to put the electives sidebar
+`entry.data.eleventyNavigation.key`
 

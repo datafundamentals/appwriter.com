@@ -33,3 +33,13 @@ eleventyNavigation:
 - electives can be a project
 - more likely they are part of a chain of stacks on a single project
 - 
+
+## 5 / 25 checklist
+
+Here's our top 5 goals, and [why we try to avoid any other goals](/principles/five_twentyfive/)
+
+- decoupled first day boltups
+- full power baas
+- farm out login registration
+- first day on anything other than electives skill demo
+- game

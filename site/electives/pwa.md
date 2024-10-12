@@ -6,7 +6,10 @@ eleventyNavigation:
   title: pwa
   parent: electives
   # order: 42
-# FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
 ---
 
 # Progressive Web App
+
+We give you a minimal boltup pwa
+
+As an elective you need to prove that you can build this yourself.
