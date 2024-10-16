@@ -1,9 +1,9 @@
 ---
 layout: layout-sidebar
-title: Boltup Java Spring
+title: Java Spring-Web
 eleventyNavigation:
   key: java_spring
-  title: Boltup Java Spring
+  title: Java Spring-Web
   parent: starter_apps
   # order: 42
 ---
@@ -17,5 +17,7 @@ This is a server side app.
 It can be used to offer up REST APIs to a React or similar app. 
 
 Or you can run it to serve up HTML/CSS/JS
+
+don't forget to mention authorization service
 
 

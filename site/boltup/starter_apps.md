@@ -1,11 +1,11 @@
 ---
 layout: layout-sidebar
-title: Boltup Starter Apps
+title: Starter Apps
 eleventyNavigation:
   key: starter_apps
-  title: Boltup Starter Apps
+  title: Starter Apps
   parent: boltup
-  # order: 42
+  order: 1
 ---
 
 # Boltup Starter Apps

@@ -1,14 +1,14 @@
 ---
 layout: layout-sidebar
-title: Open Source Tooling
+title: Tooling
 eleventyNavigation:
   key: open_source_tooling
-  title: Open Source Tooling
+  title: Tooling
   parent: boltup
-  # order: 42
+  order: 3
 ---
 
-# Open Source Tooling
+# Tooling
 
 This tooling is offered as a convenience.
 

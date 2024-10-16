@@ -1,11 +1,11 @@
 ---
 layout: layout-sidebar
-title: Boltup React
+title: React SPA
 eleventyNavigation:
   key: react_app
-  title: Boltup React
+  title: React SPA
   parent: starter_apps
-  # order: 42
+  order: 2
 ---
 
 # Boltup React App

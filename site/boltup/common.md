@@ -1,14 +1,14 @@
 ---
 layout: layout-sidebar
-title: Shared Infrastructue
+title: Common
 eleventyNavigation:
-  key: shared_infrastructue
-  title: Shared Infrastructue
+  key: common
+  title: Common
   parent: boltup
-  # order: 42
+  order: 2
 ---
 
-# Shared Infrastructue
+# Common To All Boltup Apps
 
 You are being judged, that is _the entire purpose of a coding portfolio_.
 

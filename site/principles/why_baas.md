@@ -10,10 +10,7 @@ eleventyNavigation:
 
 # Why a BaaS, or Back end as a Service
 
-We're going to cover a wide number of issues here, and they overlap! Please try to keep them separate in your brain - they can get very confusing for mere mortals just trying to get a coding Portfolio built.
-
-what are the elective supported features that need a BaaS?
-which ones to only run on local emulator???
+We're going to cover a wide number of issues here, and they overlap! Please try to keep them separate in your brain - they can get very confusing if one is just trying to get a coding Portfolio built.
 
 
 1. Wait, what about just a plain SQL database?
@@ -57,6 +54,9 @@ Since dozens more features than a SQL database would be too much to cover here, 
 
 
 
+
+what are the elective supported features that need a BaaS?
+which ones to only run on local emulator???
 
 
 

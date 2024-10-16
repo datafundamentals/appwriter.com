@@ -1,14 +1,14 @@
 ---
 layout: layout-sidebar
-title: Boltup Lit SPA
+title: Web Component SPA
 eleventyNavigation:
   key: lit_spa
-  title: Boltup Lit SPA
+  title: Web Component SPA
   parent: starter_apps
-  # order: 42
+  order: 3
 ---
 
-# Boltup Lit SPA
+# Boltup Lit Based Web Component SPA
 
 What is a Lit SPA?
 

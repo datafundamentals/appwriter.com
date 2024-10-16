@@ -10,3 +10,6 @@ eleventyNavigation:
 ---
 
 # UML
+
+- https://lucid.app/
+- https://en.wikipedia.org/wiki/Unified_Modeling_Language
