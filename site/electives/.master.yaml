@@ -1,0 +1,114 @@
+- folderName: AI
+  name: Ai
+  lastUpdated: '24:11:17:16:14'
+- folderName: BaaS
+  name: Baas
+  lastUpdated: '24:11:17:16:14'
+- folderName: MPA
+  name: MPA
+  lastUpdated: '24:11:17:16:14'
+- folderName: PWA
+  name: Pwa
+  lastUpdated: '24:11:17:16:14'
+- folderName: SSG
+  name: Ssg
+  lastUpdated: '24:11:17:16:58'
+- folderName: buildTools
+  name: Build Tools
+  lastUpdated: '24:11:17:16:14'
+- folderName: cassandra
+  name: Cassandra
+  lastUpdated: '24:11:17:16:14'
+- folderName: chat
+  name: Chat
+  lastUpdated: '24:11:17:16:14'
+- folderName: clientTesting
+  name: Client Testing
+  lastUpdated: '24:11:17:16:14'
+- folderName: cloudServices
+  name: Cloud Services
+  lastUpdated: '24:11:17:16:14'
+- folderName: devops
+  name: Devops
+  lastUpdated: '24:11:17:16:14'
+- folderName: docker
+  name: Docker
+  lastUpdated: '24:11:17:16:14'
+- folderName: envVars
+  name: Env Vars
+  lastUpdated: '24:11:17:16:14'
+- folderName: firebaseSecurity
+  name: Firebase Security
+  lastUpdated: '24:11:17:16:14'
+- folderName: graphQl
+  name: Graph Ql
+  lastUpdated: '24:11:17:16:14'
+- folderName: graphicsDesign
+  name: Graphics Design
+  lastUpdated: '24:11:17:16:14'
+- folderName: i18
+  name: I18
+  lastUpdated: '24:11:17:16:14'
+- folderName: jhipster
+  name: Jhipster
+  lastUpdated: '24:11:17:16:14'
+- folderName: kafka
+  name: Kafka
+  lastUpdated: '24:11:17:16:14'
+- folderName: layoutSpacing
+  name: Layout Spacing
+  lastUpdated: '24:11:17:16:14'
+- folderName: lighthouse
+  name: Lighthouse
+  lastUpdated: '24:11:17:16:14'
+- folderName: logging
+  name: Logging
+  lastUpdated: '24:11:17:16:14'
+- folderName: markdown
+  name: Markdown
+  lastUpdated: '24:11:17:16:14'
+- folderName: materialDesign
+  name: Material Design
+  lastUpdated: '24:11:17:16:14'
+- folderName: mongo
+  name: Mongo
+  lastUpdated: '24:11:17:16:14'
+- folderName: npm
+  name: Npm
+  lastUpdated: '24:11:17:16:14'
+- folderName: react
+  name: React
+  lastUpdated: '24:11:17:16:14'
+- folderName: reactive
+  name: Reactive
+  lastUpdated: '24:11:17:16:14'
+- folderName: rust
+  name: Rust
+  lastUpdated: '24:11:17:16:14'
+- folderName: serverless
+  name: Serverless
+  lastUpdated: '24:11:17:16:14'
+- folderName: softskills
+  name: Softskills
+  lastUpdated: '24:11:17:16:14'
+- folderName: swagger
+  name: Swagger
+  lastUpdated: '24:11:17:16:14'
+- folderName: typescript
+  name: Typescript
+  lastUpdated: '24:11:17:16:14'
+- folderName: uml
+  name: Uml
+  lastUpdated: '24:11:17:16:14'
+- folderName: unitTesting
+  name: Unit Testing
+  lastUpdated: '24:11:17:16:14'
+- folderName: video
+  name: Video
+  lastUpdated: '24:11:17:16:14'
+- folderName: webAssembly
+  name: Web Assembly
+  lastUpdated: '24:11:17:16:14'
+- folderName: webComponents
+  name: Web Components
+  lastUpdated: '24:11:17:16:14'

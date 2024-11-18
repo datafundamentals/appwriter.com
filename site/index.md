@@ -1,5 +1,5 @@
 ---
-title: Lorem Ipsum!
+title: appwriter.com
 layout: layout-home
 slogan: ullamco enim quis dolor adipisicing non labore laborum ea aute
 callToActionItems:

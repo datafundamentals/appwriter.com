@@ -1,6 +1,8 @@
 ---
-layout: layout-sidebar
-title: PEG - Portfolio Electives Game
+
+title: PEG
+layout: layout-home
+slogan: Portfolio Electives Game
 eleventyNavigation:
   key: PEG
   title: PEG - Portfolio Electives Game
@@ -8,6 +10,9 @@ eleventyNavigation:
   order: 1
 ---
 
-# PEG Portfolio Electives Game
+# PEG - Portfolio Electives Game
 
-The last mile, as a game.
+<peg-app></peg-app>
+
+
+

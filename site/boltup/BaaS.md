@@ -25,6 +25,14 @@ What it adds is:
 - A project to deploy your primary hosting from
 - A project manage your _local_ Firebase emulator (recommended!)
 
+## How To Use It
+
+- do not clone, instead use as template
+- modify firebase config to fit your own
+- copy relevant code into your specific project (such as functions)
+- ignore that which you prefer to set up using firebase init
+- modify according to your project's needs
+
 ## Why Firebase?
 
 The easy ven diagram plots these 3 competing concerns
