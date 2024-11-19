@@ -1,6 +1,11 @@
 ---
-layout: yada
-title: "Pwa"
+  layout: layout-sidebar
+  title: "PWA"
+  eleventyNavigation:
+    key: "PWA"
+    title: "PWA"
+    parent: electives
+  # order: 42
 ---
 
-# Pwa Elective
+# PWA Elective

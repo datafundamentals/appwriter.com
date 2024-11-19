@@ -1,6 +1,11 @@
 ---
-layout: yada
-title: "Ssg"
+  layout: layout-sidebar
+  title: "SSG"
+  eleventyNavigation:
+    key: "SSG"
+    title: "SSG"
+    parent: electives
+  # order: 42
 ---
 
-# Ssg Elective
+# SSG Elective

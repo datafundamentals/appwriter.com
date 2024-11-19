@@ -1,39 +1,12 @@
-import { i as e, n as r, t, r as o, x as l } from './property-1hI2sKkM.js';
-var n = function (e, r, t, o) {
-  for (
-    var l, n = arguments.length, s = n < 3 ? r : null === o ? (o = Object.getOwnPropertyDescriptor(r, t)) : o, p = e.length - 1;
-    p >= 0;
-    p--
-  )
-    (l = e[p]) && (s = (n < 3 ? l(s) : n > 3 ? l(r, t, s) : l(r, t)) || s);
-  return n > 3 && s && Object.defineProperty(r, t, s), s;
-};
-let s = class extends o {
-  constructor() {
-    super(...arguments), (this.name = 'World');
-  }
-  render() {
-    return l`
-      <p>These would be the listed electives!</p>
-      <h1>${this.sayHello(this.name)}!</h1>
-    `;
-  }
-  sayHello(e) {
-    return `Electives ${e}`;
-  }
-};
-(s.styles = e`
+import{b as e,h as t,t as a,c as i,j as o,x as s}from"./electives-BnuCE6Ks.js";var n=function(e,t,a,i){for(var o,s=arguments.length,n=s<3?t:null===i?i=Object.getOwnPropertyDescriptor(t,a):i,c=e.length-1;c>=0;c--)(o=e[c])&&(n=(s<3?o(n):s>3?o(t,a,n):o(t,a))||n);return s>3&&n&&Object.defineProperty(t,a,n),n};let c=class extends i{constructor(){super(...arguments),this.electives=[]}connectedCallback(){super.connectedCallback(),this.loadElectives()}async loadElectives(){this.electives=await o()}navigateToPage(e){const t=e.target.value;t&&(window.location.href=`/electives/${t}/`)}render(){return s`
+      <select @change=${this.navigateToPage}>
+        <option value="">Navigate to an Elective</option>
+        ${this.electives.map((e=>s`<option value="${e.id}">${e.name}</option>`))}
+      </select>
+    `}};c.styles=e`
     :host {
       display: block;
-      border: solid 1px green;
-      margin: 10px;
-      padding: 16px;
+      margin: 5px;
+      padding: 5px;
     }
-    p, h1 {
-      color: green;
-    }
-
-  `),
-  n([r()], s.prototype, 'name', void 0),
-  (s = n([t('elective-menu')], s));
-export { s as ElectiveMenu };
+  `,n([t()],c.prototype,"electives",void 0),c=n([a("elective-menu")],c);export{c as ElectiveMenu};
