@@ -9,3 +9,7 @@
 ---
 
 # Build Tools Elective
+
+Points: {{ points }}
+
+Historical Demand: {{ historicalDemand }}
