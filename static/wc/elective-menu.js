@@ -1,7 +1,7 @@
-import{b as e,h as t,t as a,c as i,j as o,x as s}from"./electives-BnuCE6Ks.js";var n=function(e,t,a,i){for(var o,s=arguments.length,n=s<3?t:null===i?i=Object.getOwnPropertyDescriptor(t,a):i,c=e.length-1;c>=0;c--)(o=e[c])&&(n=(s<3?o(n):s>3?o(t,a,n):o(t,a))||n);return s>3&&n&&Object.defineProperty(t,a,n),n};let c=class extends i{constructor(){super(...arguments),this.electives=[]}connectedCallback(){super.connectedCallback(),this.loadElectives()}async loadElectives(){this.electives=await o()}navigateToPage(e){const t=e.target.value;t&&(window.location.href=`/electives/${t}/`)}render(){return s`
+import{b as e,c as t,t as a,r as o,x as i}from"./auth-4w4T72xN.js";import{g as s}from"./electives-BohN4Fgs.js";var n=function(e,t,a,o){for(var i,s=arguments.length,n=s<3?t:null===o?o=Object.getOwnPropertyDescriptor(t,a):o,c=e.length-1;c>=0;c--)(i=e[c])&&(n=(s<3?i(n):s>3?i(t,a,n):i(t,a))||n);return s>3&&n&&Object.defineProperty(t,a,n),n};let c=class extends o{constructor(){super(...arguments),this.electives=[]}connectedCallback(){super.connectedCallback(),this.loadElectives()}async loadElectives(){this.electives=await s()}navigateToPage(e){const t=e.target.value;t&&(window.location.href=`/electives/${t}/`)}render(){return i`
       <select @change=${this.navigateToPage}>
         <option value="">Navigate to an Elective</option>
-        ${this.electives.map((e=>s`<option value="${e.id}">${e.name}</option>`))}
+        ${this.electives.map((e=>i`<option value="${e.id}">${e.name}</option>`))}
       </select>
     `}};c.styles=e`
     :host {
