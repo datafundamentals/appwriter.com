@@ -12,7 +12,7 @@ eleventyNavigation:
 
 # PEG - Portfolio Electives Game
 
-<peg-app></peg-app>
+<peg-bundle-app></peg-bundle-app>
 
 
 

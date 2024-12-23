@@ -35,5 +35,5 @@ let s = class extends o {
 
   `),
   n([r()], s.prototype, 'name', void 0),
-  (s = n([t('elective-menu')], s));
+  (s = n([t('peg-bundle-elective-menu')], s));
 export { s as ElectiveMenu };

@@ -20610,5 +20610,5 @@ let gp = class extends (function (e) {
       max-width: 800px;
     }
   `),
-  (gp = pp([n('peg-app')], gp));
+  (gp = pp([n('peg-bundle-app')], gp));
 export { gp as PegApp };
