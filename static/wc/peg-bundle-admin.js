@@ -1,9 +1,9 @@
-import{j as e,x as t,k as r,l as a,m as n,i,t as l,r as p}from"./auth-CQzytyle.js";import"./peg-players-admin-D8J_3siM.js";
+import{j as e,x as t,k as r,l as a,m as n,i,t as s,f as l}from"./auth-5Jcf1-eo.js";import"./peg-players-admin-BL-jqiLd.js";
 /**
  * @license
  * Copyright 2019 Google LLC
  * SPDX-License-Identifier: BSD-3-Clause
- */var s=function(e,t,r,a){for(var n,i=arguments.length,l=i<3?t:null===a?a=Object.getOwnPropertyDescriptor(t,r):a,p=e.length-1;p>=0;p--)(n=e[p])&&(l=(i<3?n(l):i>3?n(t,r,l):n(t,r))||l);return i>3&&l&&Object.defineProperty(t,r,l),l};let o=class extends(e(p)){render(){return t`
+ */var p=function(e,t,r,a){for(var n,i=arguments.length,s=i<3?t:null===a?a=Object.getOwnPropertyDescriptor(t,r):a,l=e.length-1;l>=0;l--)(n=e[l])&&(s=(i<3?n(s):i>3?n(t,r,s):n(t,r))||s);return i>3&&s&&Object.defineProperty(t,r,s),s};let o=class extends(e(l)){render(){return t`
       <div>
         ${r.get()?t`<p>Welcome, ${a.get()?.displayName}</p>
               <players-admin></players-admin>`:t`<button @click="${n}">Sign in with Google</button>`}
@@ -15,4 +15,4 @@ import{j as e,x as t,k as r,l as a,m as n,i,t as l,r as p}from"./auth-CQzytyle.j
       padding: 16px;
       max-width: 800px;
     }
-  `,o=s([l("peg-bundle-admin")],o);export{o as PegBundleAdmin};
+  `,o=p([s("peg-bundle-admin")],o);export{o as PegBundleAdmin};
