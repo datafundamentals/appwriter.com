@@ -12,7 +12,7 @@ Flipping the script means agency - for coders, anyway. We're here to stay.
 
 Cool. I'm a lab rat, now. Who would have known?
 
-Let's see where this goes. Experiment becomes the experimenter!
+Let's see where this goes. The Science Experiment becomes the Experimenter!
 
 Sure, there are layoffs. We've got a little bit of time on our hands. Wonder what's gonna happen with that?
 
