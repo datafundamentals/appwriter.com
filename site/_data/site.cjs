@@ -3,22 +3,12 @@ module.exports = function () {
     dir: 'ltr',
     lang: 'en',
     name: 'appwriter.com',
-    description: 'Appwriter.com is a platform for helping pros add coding to their skillsetss',
+    description: 'Coder, to feature wrangler',
     socialLinks: [
       {
         name: 'GitHub',
         image: '/static/brand-logos/github.svg',
         url: 'https://github.com/petecarapetyan/fins-rocket-themes/tree/main/not-wired/src/docs',
-      },
-      {
-        name: 'facebook',
-        image: '/static/brand-logos/facebook.svg',
-        url: 'https://github.com/petecarapetyan/fins-rocket-themes/tree/main/not-wired/src/docs',
-      },
-      {
-        name: 'Twitter',
-        image: '/static/brand-logos/strava.svg',
-        url: 'https://twitter.com/appwritercom',
       },
       {
         name: 'Youtube',

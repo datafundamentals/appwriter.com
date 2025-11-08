@@ -19,17 +19,17 @@ If it takes longer than that, you're not playing PEG, you're building a skillset
 
 One of these, which you will be _turning into one of your own PEG **Portfolio Apps**_:
 
-- Boltup Java Spring
-- Boltup Lit SPA
-- Boltup React
-- Boltup 11ty SSG PWA
+- dF Java Spring
+- dF Lit SPA
+- dF React
+- dF 11ty SSG PWA
 
 What does Setup mean, in this context?:
 
 - Fully deployed and operational hello world app with no electives installed.
 - Complete connectivity with a production quality Baas Back end as a Service: Firebase
 - Secured with Authentication by others.
-- Completable using electives chosen by PEG player, and appropriate for specific Boltup Starter App chosen.
+- Completable using electives chosen by PEG player, and appropriate for specific dF Starter App chosen.
 
 ## What an App Setup is not
 

@@ -31,7 +31,7 @@ _**"I want to give my portfolio the best resources I can! And I don't have time 
 
 10 years ago this would have been a pipe dream. Today there are lots of great options, and Firebase is one of, if not the best.
 
-Boltup assumes that little or none of this is familiar, so we do some setup for you, assuming you'll start from there.
+dF assumes that little or none of this is familiar, so we do some setup for you, assuming you'll start from there.
 
 If you need the rest of the principles around a BaaS for your portfolio, read on.
 

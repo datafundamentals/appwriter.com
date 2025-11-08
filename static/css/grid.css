@@ -8,7 +8,7 @@ body[layout='layout-blog-details'] {
   grid-template-areas:
     "head-l     head-main     head-side     head-r"
     "head2-l    head2-main    head2-side    head2-r"
-    "content-l  content-main  content-side  content-r"
+    "content-l  content-main  content-side  content-side"
     "content-l  foot-main     foot-main     content-r";
   grid-auto-rows: 0; 
   grid-auto-columns: 0;
@@ -72,6 +72,7 @@ body[layout='layout-blog-details'] {
 }
 .sidebar-grid-area {
   grid-area: content-side;
+  background-color: rgb(202, 231, 248);
 }
 
 

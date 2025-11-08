@@ -19305,7 +19305,7 @@ class af {
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
- */ const df = /^__.*__$/;
+ */ const dF = /^__.*__$/;
 class ff {
   constructor(e, t, n) {
     (this.data = e), (this.fieldMask = t), (this.fieldTransforms = n);
@@ -19389,7 +19389,7 @@ class mf {
   }
   Ou(e) {
     if (0 === e.length) throw this.Bu('Document fields must not be empty');
-    if (gf(this.Cu) && df.test(e)) throw this.Bu('Document fields cannot begin and end with "__"');
+    if (gf(this.Cu) && dF.test(e)) throw this.Bu('Document fields cannot begin and end with "__"');
   }
 }
 class yf {

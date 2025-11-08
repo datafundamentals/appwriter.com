@@ -16,7 +16,7 @@ Here are our priorities, if we filter with the 5/25 rule
 
 ## do (max 5):
 
-- decoupled boltups
+- decoupled dF apps
 - full power baas
 - farm out login registration
 - first day on anything other than electives skill demo
@@ -29,7 +29,7 @@ Here are our priorities, if we filter with the 5/25 rule
 - marketing - 2035 SMEs are enough, we prefer a smaller community
 - any security greater than ["Portfolio Grade"](/principles/portfoli_grade_security)
 
-## Why Decoupled Boltups
+## Why Decoupled dfs
 
 yada
 
