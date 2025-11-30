@@ -3,12 +3,12 @@ module.exports = function () {
     dir: 'ltr',
     lang: 'en',
     name: 'appwriter.com',
-    description: 'Coder, to feature wrangler',
+    description: 'from coder, to appwriter',
     socialLinks: [
       {
         name: 'GitHub',
         image: '/static/brand-logos/github.svg',
-        url: 'https://github.com/petecarapetyan/fins-rocket-themes/tree/main/not-wired/src/docs',
+        url: 'https://github.com/datafundamentals/dF',
       },
       {
         name: 'Youtube',

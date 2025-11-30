@@ -10,6 +10,6 @@ eleventyNavigation:
 
 # Mon Wed
 
-- Times: 7pm CST
-- Link distributed separately
-- Purpose: Mostly economic
+- **Times:** 7pm CST
+- **Link:** distributed separately
+- **Purpose:** Mostly, economic
